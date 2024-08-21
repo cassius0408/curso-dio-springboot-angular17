@@ -1,6 +1,6 @@
 
 ## Spring Boot com JPA 
-Projeto SpringBoot que salva um objeto Usuario usando JPA.
+Projeto SpringBoot que salva em anco de dados um objeto Usuario usando JPA.
 
 ## 💻 Tecnologias
 
