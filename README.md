@@ -6,7 +6,7 @@ Projeto SpringBoot que salva um objeto Usuario usando JPA.
 
 - Java 17
 - Spring Boot 3.3.2
-- JPA
+- Data JPA
 - H2 data base
 
 ## 🚀 Começando
